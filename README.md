@@ -4,13 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+•   Add Tasks: Create tasks with a title and description.
+•   Drag and Drop: To drag the tasks according to status (to do, in progress, done).
+•   Edit & View details Tasks: Modify or view tasks anytime.
+•   Categorize Tasks: Group tasks by categories for better organization.
+•   Offline Support: Your tasks are saved locally and accessible without internet.
+ 
+Built With
+•   Flutter: The app is built using the Flutter framework.
+•   Dart: Flutter's programming language.
+•   SharedPreferences: For local storage.
+ 
+Acknowledgments
+•   Inspired by apps like Trello.
+•   Built with Flutter.
+•   Thanks to the open-source community for their incredible tools and resources.
