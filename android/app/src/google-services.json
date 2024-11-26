@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069444663720",
+    "project_id": "kinzyclub-6cb10",
+    "storage_bucket": "kinzyclub-6cb10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069444663720:android:20112df854cea887c8759d",
+        "android_client_info": {
+          "package_name": "com.example.kinzy_club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ6XRr3wlQF23JLc0nuLnJxVYVzePoDW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
